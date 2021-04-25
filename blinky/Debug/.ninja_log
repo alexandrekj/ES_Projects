@@ -1,0 +1,12 @@
+# ninja log v5
+0	665	6387675369166901	C:/IAR/EK-TM4C1294_RTOS_IAR8-master/Projects/blinky/ewarm/Obj/blinky.o	8b0b0e0ab0ee715
+0	179	6387676732571034	C:/IAR/EK-TM4C1294_RTOS_IAR8-master/Projects/blinky/ewarm/Obj/blinky.o	8b0b0e0ab0ee715
+0	229	6387702848195549	C:/IAR/EK-TM4C1294_RTOS_IAR8-master/Projects/blinky/ewarm/Obj/blinky.o	743fe3b3299e2ba1
+0	141	6387703934697104	C:/IAR/EK-TM4C1294_RTOS_IAR8-master/Projects/blinky/ewarm/Obj/blinky.o	743fe3b3299e2ba1
+4	108	6387703959999974	C:/IAR/EK-TM4C1294_RTOS_IAR8-master/Projects/blinky/ewarm/Obj/startup_TM4C1294.o	265904a5d9f7988f
+7	201	6387703960161186	C:/IAR/EK-TM4C1294_RTOS_IAR8-master/Projects/blinky/ewarm/Obj/RTX_Config.o	8957496b873b980a
+10	260	6387703961351964	C:/IAR/EK-TM4C1294_RTOS_IAR8-master/Projects/blinky/ewarm/Obj/system_TM4C1294_TW.o	9f9ffc2ca902f47f
+113	332	6387703961951864	C:/IAR/EK-TM4C1294_RTOS_IAR8-master/Projects/blinky/ewarm/Obj/rtx_lib.o	f2327730602c3a59
+0	359	6387703962299254	C:/IAR/EK-TM4C1294_RTOS_IAR8-master/Projects/blinky/ewarm/Obj/driverleds.o	3e48266a0c14cbfc
+371	1244	6387703971151365	C:/IAR/EK-TM4C1294_RTOS_IAR8-master/Projects/blinky/ewarm/Exe/blinky.out	16c92ea10fc497bb
+1258	1335	6387703972348918	C:/IAR/EK-TM4C1294_RTOS_IAR8-master/Projects/blinky/ewarm/Exe/blinky.bin	398793332b1e75ea

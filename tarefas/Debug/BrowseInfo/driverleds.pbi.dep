@@ -1,0 +1,13 @@
+C:\IAR\EK-TM4C1294_RTOS_IAR8-master\Projects\tarefas\Debug\BrowseInfo\driverleds.pbi: \
+  C:\IAR\EK-TM4C1294_RTOS_IAR8-master\Projects\drivers\driverleds.c \
+  C:\Program\ Files\IAR_9.0\Embedded\ Workbench\ 9.0\arm\inc\c\stdbool.h \
+  C:\Program\ Files\IAR_9.0\Embedded\ Workbench\ 9.0\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR_9.0\Embedded\ Workbench\ 9.0\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR_9.0\Embedded\ Workbench\ 9.0\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR_9.0\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR_9.0\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\IAR_9.0\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product.h \
+  C:\IAR\EK-TM4C1294_RTOS_IAR8-master\Projects\tarefas\..\..\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h \
+  C:\IAR\EK-TM4C1294_RTOS_IAR8-master\Projects\tarefas\..\..\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h \
+  C:\IAR\EK-TM4C1294_RTOS_IAR8-master\Projects\tarefas\..\..\TivaWare_C_Series-2.1.4.178\driverlib/gpio.h \
+  C:\IAR\EK-TM4C1294_RTOS_IAR8-master\Projects\drivers/driverleds.h
